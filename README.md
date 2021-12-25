@@ -1,2 +1,3 @@
 # Magical-Land-Of-Foon
-Java console apk shows result using Inheritance, association, overriding, and constructors. 
+
+Magical Land of Foon is a Java console apk shows result using the concept of Inheritance, association, overriding, and constructors. 
